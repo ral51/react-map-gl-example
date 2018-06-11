@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 import MapGL from 'react-map-gl';
-const MAPBOX_TOKEN = "";
+const MAPBOX_TOKEN = '';
 export class App extends Component {
   constructor(props) {
     super(props)
